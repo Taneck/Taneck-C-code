@@ -1,0 +1,2 @@
+D:\code\单词的长度\x64\Debug\单词的长度.exe
+D:\code\洛谷入门\单词的长度\x64\Debug\单词的长度.exe

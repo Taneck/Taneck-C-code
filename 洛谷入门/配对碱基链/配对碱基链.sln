@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "配对碱基链", "配对碱基链.vcxproj", "{A9CF6C42-52CB-4090-9F17-E28E6B057E1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9CF6C42-52CB-4090-9F17-E28E6B057E1D}.Debug|x64.ActiveCfg = Debug|x64
+		{A9CF6C42-52CB-4090-9F17-E28E6B057E1D}.Debug|x64.Build.0 = Debug|x64
+		{A9CF6C42-52CB-4090-9F17-E28E6B057E1D}.Debug|x86.ActiveCfg = Debug|Win32
+		{A9CF6C42-52CB-4090-9F17-E28E6B057E1D}.Debug|x86.Build.0 = Debug|Win32
+		{A9CF6C42-52CB-4090-9F17-E28E6B057E1D}.Release|x64.ActiveCfg = Release|x64
+		{A9CF6C42-52CB-4090-9F17-E28E6B057E1D}.Release|x64.Build.0 = Release|x64
+		{A9CF6C42-52CB-4090-9F17-E28E6B057E1D}.Release|x86.ActiveCfg = Release|Win32
+		{A9CF6C42-52CB-4090-9F17-E28E6B057E1D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D6A19FA-60CE-4971-A2F3-7AEF41626633}
+	EndGlobalSection
+EndGlobal

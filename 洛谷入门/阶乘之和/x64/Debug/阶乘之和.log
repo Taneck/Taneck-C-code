@@ -1,0 +1,6 @@
+﻿  阶乘之和.c
+D:\code\阶乘之和\阶乘之和.c(15,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+D:\code\阶乘之和\阶乘之和.c(15,9): message : 请考虑在格式字符串中使用“%lld”
+D:\code\阶乘之和\阶乘之和.c(15,9): message : 请考虑在格式字符串中使用“%Id”
+D:\code\阶乘之和\阶乘之和.c(15,9): message : 请考虑在格式字符串中使用“%I64d”
+  阶乘之和.vcxproj -> D:\code\阶乘之和\x64\Debug\阶乘之和.exe
