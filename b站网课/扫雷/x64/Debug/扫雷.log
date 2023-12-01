@@ -1,0 +1,6 @@
+﻿  扫雷game部分.c
+  扫雷main部分.c
+D:\code\扫雷\扫雷main部分.c(17,9): warning C4101: “j”: 未引用的局部变量
+D:\code\扫雷\扫雷main部分.c(17,6): warning C4101: “i”: 未引用的局部变量
+  正在生成代码...
+  扫雷.vcxproj -> D:\code\扫雷\x64\Debug\扫雷.exe
