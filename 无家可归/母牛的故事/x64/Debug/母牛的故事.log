@@ -1,0 +1,3 @@
+﻿  母牛的故事.c
+D:\code\母牛的故事\母牛的故事.c(33): warning C4715: “plus”: 不是所有的控件路径都返回值
+  母牛的故事.vcxproj -> D:\code\母牛的故事\x64\Debug\母牛的故事.exe
