@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P1125 笨小猴", "P1125 笨小猴.vcxproj", "{8EC7E28F-CE1A-4DF7-81D7-D9056557827F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EC7E28F-CE1A-4DF7-81D7-D9056557827F}.Debug|x64.ActiveCfg = Debug|x64
+		{8EC7E28F-CE1A-4DF7-81D7-D9056557827F}.Debug|x64.Build.0 = Debug|x64
+		{8EC7E28F-CE1A-4DF7-81D7-D9056557827F}.Debug|x86.ActiveCfg = Debug|Win32
+		{8EC7E28F-CE1A-4DF7-81D7-D9056557827F}.Debug|x86.Build.0 = Debug|Win32
+		{8EC7E28F-CE1A-4DF7-81D7-D9056557827F}.Release|x64.ActiveCfg = Release|x64
+		{8EC7E28F-CE1A-4DF7-81D7-D9056557827F}.Release|x64.Build.0 = Release|x64
+		{8EC7E28F-CE1A-4DF7-81D7-D9056557827F}.Release|x86.ActiveCfg = Release|Win32
+		{8EC7E28F-CE1A-4DF7-81D7-D9056557827F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {267C3F8B-2384-4143-B43D-D835391FA5A1}
+	EndGlobalSection
+EndGlobal

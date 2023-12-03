@@ -1,0 +1,3 @@
+﻿  P1125 笨小猴.c
+D:\code\P1125 笨小猴\P1125 笨小猴.c(69,7): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  P1125 笨小猴.vcxproj -> D:\code\P1125 笨小猴\x64\Debug\P1125 笨小猴.exe
