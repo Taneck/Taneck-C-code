@@ -40,7 +40,7 @@ void load(int* value, int* amount, int n, int remain)//装载第n项及以前的礼物
 	int count = 0;
 	while (n >= 0)
 	{
-		if (amount[value[n]] && value[n] <= remain&&count<2)//该价值的礼物没被用完且小于等于剩余价值
+		if (amount[value[n]] && value[n] <= remain && count < 2)//该价值的礼物没被用完且小于等于剩余价值
 		{
 			amount[value[n]]--;
 			remain -= value[n];

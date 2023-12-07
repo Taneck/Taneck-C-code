@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{7eb46ba0-aafd-43aa-93ef-f893e5574d53}</ProjectGuid>
+    <ProjectGuid>{87ba8b3b-b2ed-48cd-85cd-6aa6a8da68b1}</ProjectGuid>
     <RootNamespace>P1094纪念品分组</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
