@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P1049 装箱问题", "P1049 装箱问题.vcxproj", "{7FA49346-2B25-4105-A289-751B87A5C723}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FA49346-2B25-4105-A289-751B87A5C723}.Debug|x64.ActiveCfg = Debug|x64
+		{7FA49346-2B25-4105-A289-751B87A5C723}.Debug|x64.Build.0 = Debug|x64
+		{7FA49346-2B25-4105-A289-751B87A5C723}.Debug|x86.ActiveCfg = Debug|Win32
+		{7FA49346-2B25-4105-A289-751B87A5C723}.Debug|x86.Build.0 = Debug|Win32
+		{7FA49346-2B25-4105-A289-751B87A5C723}.Release|x64.ActiveCfg = Release|x64
+		{7FA49346-2B25-4105-A289-751B87A5C723}.Release|x64.Build.0 = Release|x64
+		{7FA49346-2B25-4105-A289-751B87A5C723}.Release|x86.ActiveCfg = Release|Win32
+		{7FA49346-2B25-4105-A289-751B87A5C723}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08818198-C2EF-428D-8C2A-C7A7D3F96A69}
+	EndGlobalSection
+EndGlobal
