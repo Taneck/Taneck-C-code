@@ -1,0 +1,4 @@
+﻿  P1093 奖学金.c
+D:\code\P1093 奖学金\P1093 奖学金.c(20,26): warning C4090: “函数”: 不同的“const”限定符
+D:\code\P1093 奖学金\P1093 奖学金.c(20,19): warning C4113: “int (__cdecl *)(int *,int *)”和“_CoreCrtNonSecureSearchSortCompareFunction”的参数列表不同
+  P1093 奖学金.vcxproj -> D:\code\P1093 奖学金\x64\Debug\P1093 奖学金.exe
