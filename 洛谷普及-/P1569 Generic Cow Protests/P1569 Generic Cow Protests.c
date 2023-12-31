@@ -24,23 +24,26 @@ int main()
 	return 0;
 }
 
-////30分错解
+////超时解
 //#include <stdio.h>
 //int grouping(int arr[],int left,int right,int sum)
 //{
-//	int i = 0;
-//	int sum_l = arr[left + i] ;
-//	int sum_r = sum-sum_l;
-//	while (sum_l < 0 || sum_r < 0)
+//	int i = 0,sum_l = 0,sum_r = 0,last = 0,ret=0;
+//	for (i = 0; i < right - left + 1; i++)
 //	{
-//		i++;
 //		sum_l += arr[left + i];
 //		sum_r = sum - sum_l;
+//		if (sum_l >= 0 && sum_r >= 0)
+//		{
+//			if (left + i == right)
+//				ret= 1;
+//			else
+//				ret=grouping(arr, left, left + i, sum_l) + grouping(arr, left + i + 1, right, sum_r);
+//			if (ret > last)
+//				last = ret;
+//		}
 //	}
-//	if (left + i == right)
-//		return 1;
-//	else
-//		return grouping(arr, left, left+i, sum_l) + grouping(arr, left + i+1, right, sum_r);
+//	return last;
 //}
 //int main()
 //{

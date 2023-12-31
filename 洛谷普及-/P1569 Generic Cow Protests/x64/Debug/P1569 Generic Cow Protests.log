@@ -1,2 +1,3 @@
 ﻿  P1569 Generic Cow Protests.c
-  P1569 Generic Cow Protests.vcxproj -> D:\code\P1569 Generic Cow Protests\x64\Debug\P1569 Generic Cow Protests.exe
+D:\code\Taneck-C-code\Taneck-C-code\洛谷普及-\P1569 Generic Cow Protests\P1569 Generic Cow Protests.c(50,9): warning C4101: “j”: 未引用的局部变量
+  P1569 Generic Cow Protests.vcxproj -> D:\code\Taneck-C-code\Taneck-C-code\洛谷普及-\P1569 Generic Cow Protests\x64\Debug\P1569 Generic Cow Protests.exe
