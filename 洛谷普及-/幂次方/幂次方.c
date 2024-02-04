@@ -20,8 +20,8 @@ int myprint(int x)
 	{
 		switch (arr[j])
 		{
-		default:
-			if (j != i - 1)
+		default://不等于1或者0时需要递归
+			if (j != i - 1)//是否为最后一个
 			{
 				printf("2(");
 				next = arr[j];
@@ -37,7 +37,7 @@ int myprint(int x)
 			}
 			break;
 		case 1:
-			if (j != i - 1)
+			if (j != i - 1)//是否为最后一个
 			{
 				printf("2+");
 			}
@@ -47,7 +47,7 @@ int myprint(int x)
 			}
 			break;
 		case 0:
-			if (j != i - 1)
+			if (j != i - 1)//是否为最后一个
 			{
 				printf("2(0)+");
 			}
