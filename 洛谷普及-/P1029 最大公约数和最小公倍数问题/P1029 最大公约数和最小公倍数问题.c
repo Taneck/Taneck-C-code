@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <math.h>
-long long gcd(long long x, long long y)
+long long gcd(long long x, long long y)//最大公约数
 {
 	if (y == 0)	return x;
 	return gcd(y, x % y);
