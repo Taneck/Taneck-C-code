@@ -4,6 +4,17 @@
 #include <stdbool.h>
 #include <stdlib.h>
 #include <stdio.h>
+#include <time.h>
+
+#define KEY_PRESS(vk) ((GetAsyncKeyState(vk) & 1) ? 1 : 0)
+
+
+#define POS_X 24
+#define POS_Y 5
+
+#define WALL L'¡õ'
+#define BODY L'¡ñ'
+#define FOOD L'¡ï'
 
 //ÉßµÄ·½Ïò
 enum DIRECTION
@@ -48,3 +59,25 @@ typedef struct Snake
 void GameStart(pSnake ps);
 
 void WelcomeToGame();
+
+void InitSnake(pSnake ps);
+
+void CreateFood(pSnake ps);
+
+void GameRun(pSnake ps);
+
+void SnakeMove(pSnake ps);
+
+int NextIsFood(pSnakeNode pn, pSnake ps);
+
+void EatFood(pSnakeNode pn, pSnake ps);
+
+void NoFood(pSnakeNode pn, pSnake ps);
+
+void KillByWall(pSnake ps);
+
+void KillBySelf(pSnake ps);
+
+void GameEnd(pSnake ps);
+
+void SetPos(short x, short y);

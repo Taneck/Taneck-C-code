@@ -1,1 +1,2 @@
 D:\code\Snake\x64\Debug\Snake.exe
+D:\code\Taneck-C-code\Taneck-C-code\b站网课\Snake\x64\Debug\Snake.exe
