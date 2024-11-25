@@ -5,5 +5,6 @@ uint64_t bit_swap(uint64_t value){
     even_bits >>= 1;
     odd_bits <<= 1;
     
+    
     return(even_bits|odd_bits);
 }
